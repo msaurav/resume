@@ -1,0 +1,14 @@
+main {
+	margin: 0 auto;
+	width: 50%;
+}
+
+section {
+	display: grid;
+	margin-bottom: 1rem; 
+}
+
+section::before {
+	content: '';
+	border: 1px solid black;
+}
