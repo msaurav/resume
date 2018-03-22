@@ -1,5 +1,7 @@
 # resume
 
+https://msaurav.github.io/resume/
+
 Sample resume template created with only html and css. 
 This is playground to test new htmls tags,attributes and new css techniques
 
